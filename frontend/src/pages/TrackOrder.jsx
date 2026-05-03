@@ -24,10 +24,10 @@ const statusColors = {
   CANCELLED: '#ef4444',
 };
 
-// Mock coordinates for simulated tracking
-const WAREHOUSE_COORD = [40.7128, -74.0060]; // New York
-const TRANSIT_COORD = [39.9526, -75.1652];   // Philadelphia
-const DELIVERY_COORD = [38.9072, -77.0369];  // Washington DC
+// Mock coordinates for simulated tracking (India)
+const WAREHOUSE_COORD = [19.0760, 72.8777];  // Mumbai
+const TRANSIT_COORD = [18.5204, 73.8567];    // Pune
+const DELIVERY_COORD = [12.9716, 77.5946];   // Bangalore
 
 const TrackOrder = () => {
   const { orderId } = useParams();
