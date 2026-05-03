@@ -4,6 +4,54 @@
 
 ---
 
+## TABLE OF CONTENTS
+
+**1. INTRODUCTION**
+  - 1.1 Project Overview
+  - 1.2 Problem Statement
+  - 1.3 Objectives of the System
+  - 1.4 Scope of the Project
+
+**2. SYSTEM ANALYSIS**
+  - 2.1 Existing System vs. Proposed System
+  - 2.2 Feasibility Study
+      - 2.2.1 Technical Feasibility
+      - 2.2.2 Operational Feasibility
+      - 2.2.3 Economic Feasibility
+      - 2.2.4 Schedule Feasibility
+  - 2.3 Hardware and Software Requirements
+
+**3. TECHNOLOGIES USED**
+  - 3.1 Java 17 and Spring Boot
+  - 3.2 Spring Security and JWT
+  - 3.3 Spring Data JPA and Hibernate
+  - 3.4 React.js and Vite
+  - 3.5 React Router and Axios
+
+**4. SYSTEM DESIGN**
+  - 4.1 Architecture Diagram
+  - 4.2 Data Flow Diagrams (DFD)
+  - 4.3 Entity Relationship (ER) Diagram
+  - 4.4 Use Case Models
+
+**5. IMPLEMENTATION DETAILS**
+  - 5.1 Backend Implementation (Spring Boot)
+  - 5.2 Frontend Implementation (React)
+
+**6. SYSTEM TESTING**
+  - 6.1 Unit Testing
+  - 6.2 Integration Testing
+  - 6.3 System Testing
+  - 6.4 Usability and UI Testing
+
+**7. CONCLUSION AND FUTURE SCOPE**
+  - 7.1 Conclusion
+  - 7.2 Future Scope
+
+**8. BIBLIOGRAPHY AND REFERENCES**
+
+---
+
 # CHAPTER 1: INTRODUCTION
 
 ## 1.1 Project Overview
